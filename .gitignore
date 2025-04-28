@@ -2,4 +2,4 @@
 /core
 /web/modules/contrib/
 .idea
-web/sites/default/files/php/*
+/web/sites/default/files/*
