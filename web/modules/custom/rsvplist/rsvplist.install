@@ -53,7 +53,7 @@ function rsvplist_schema() {
     ],
   ];
 
-  $schema['rsvp_enabled'] = [
+  $schema['rsvplist_enabled'] = [
     'description' => 'Tracks whether RSVP is enabled or not for a node.',
     'fields' => [
       'nid' => [
